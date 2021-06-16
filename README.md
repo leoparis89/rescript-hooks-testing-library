@@ -54,5 +54,5 @@ describe("useCounter", () => {
 
 ```
 #### More usage examples
-1. [Tests](https://github.com/glebskr/rescriot-hooks-testing-library/tree/master/__tests__)
+1. [Tests](https://github.com/glebskr/rescript-hooks-testing-library/tree/master/__tests__)
 2. [react-hooks-testing-library documentation](https://react-hooks-testing-library.com/)
