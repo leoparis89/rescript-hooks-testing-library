@@ -25,7 +25,7 @@ Then add `rescript-hooks-testing-library` to `bs-dev-dependencies` in your `bsco
 ```reason
 open Jest
 open Expect
-open Testing
+open RescriptHooksTestingLibrary.Testing
 
 type counterType = {
   counter: int,
@@ -53,6 +53,8 @@ describe("useCounter", () => {
 
 
 ```
+
 #### More usage examples
+
 1. [Tests](https://github.com/glebskr/rescript-hooks-testing-library/tree/master/__tests__)
 2. [react-hooks-testing-library documentation](https://react-hooks-testing-library.com/)
